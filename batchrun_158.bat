@@ -1,0 +1,2 @@
+java -Xms400m -Xmx400m -XX:+UseG1GC --add-modules java.xml.bind -cp .;wormsim.jar;colt.jar;commons-math3-3.6.1.jar Wormsim -runbatch -parameters=parameters_158.txt -scenario=scenario_158 -xfoitrend=xfoitrend_158.txt
+ 

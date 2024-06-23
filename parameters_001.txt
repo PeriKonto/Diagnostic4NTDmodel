@@ -1,0 +1,2 @@
+-a=false -seed=0 -rbr=0.5,0.6 -pop=1,2 -exp=0.2 -xfoimult=1
+-a=true -seed=0 -rbr=0.5,0.6 -pop=1,2 -exp=0.2 -xfoimult=1
